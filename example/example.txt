@@ -1,0 +1,4 @@
+<picFolderName1> This is an example prompt. Try clicking on the pictures.  - This is an example answer
+This is another example  prompt. - The picture folder tag can be placed <picFolderName2> anywhere.
+Some prompts dont even need pictures. - Clicking "Learned" will prevent this prompt from showing up again until the program is restarted. It wil lalso show you another prompt right away.
+One more thing - you can press alt+n to jump to the next entry and bypass the wait time!

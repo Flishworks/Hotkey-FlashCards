@@ -1,0 +1,19 @@
+<fir>  What is this tree? - Fir. Fir grows on the sunny spots in the mountains with mild or cool humid climate. Fir needles are typically short and mostly soft with blunt tips.
+What is this tree? <hemlock>  - Hemlock. Notice how needs are attatched indivitually and sprawl out in a flat array, rather than being rounded. Hemlock grows in cool and moist climates, in areas that have cool summers and plenty of rainfalls. Unlike other conifers, hemlock tolerates shade.
+What is <aspen>  this tree? - Aspen. Member of the Populus genus (poplars). Bark is smooth and does not peel off. Markings are from knots and previous branches and resemble eyes. the leaves are heart shaped to rounded and are about 2 to 2 1/2 inches long.  They look broader or fatter than Birch leaves.  The edges are finely serrated or toothed.
+<birch>  - Birch. These trees typically have horizontal markings all over the trunk that are not associated with any previous branches or scarring. The bark is rougher than Aspen and will peel off easily. Birch do not grow in high elevation.
+<beech>  - American beech. Smooth silvery bark.
+<elm>  - Elm
+<tulip>  - Tulip Tree. Commmonly called a tulip poplar, though not a true poplar. In the magnolia family. 
+<alder>  - Alder
+<spruce>  - Spruce. All spruce trees have sharp pointed needles that are often 4 sided or diamond shaped in cross section and have four whitish striped lines.
+<dogwood>  - dogwood
+<cypress>  - Cypress. Common name for trees in the family Cupressaceae, which contains Junipers and False Ceders.
+<juniper>  - Juniper. Junipers are trees of genus Juniperus belonging to the Cypress (Cupressaceae) family. They have bluish, berry like cones. All junipers produce small seed cones that resemble berries. Some junipers also have spiny needle like leaves. Junipers are most commonly shrubs, though they can be trees as well.
+<ponderosa>  - Poderosa Pine. Orange/brown bark, arranged in large vertically oriented plates,  dark yellow-green needles that are 5 to 10” long and grow in clusters of three
+<maple>  - Maple
+<ceder>  - False Cedar. The true Cedars (belonging to the genus Cedrus) grow in africa and the middle east. All true cedars are members of the pine family (Pinaceae). The false cedars of North America are members of the Cypress family (Cupressaceae). There are also two species of Juniper commonly called cedar. In the east there is Juniperus virginiana, known as the eastern red cedar. And in the mountains of the west coast, grows Juniperus occidentalis, which is usually called a western juniper or Sierra juniper, but on occasion might be labeled as a western red cedar.
+<magnolia>  - Magnolia
+<blackLocust>  - Black Locust. Black locust has nitrogen fixing bacteria on its root system. For this reason, it can grow on poor soils, increase soil fertility and is an early colonizer of disturbed areas. The wood is extremely hard, resistant to rot and longlasting, making it prized for fence posts and small watercraft.
+<hickory>  - Hickory
+<hackberry>  - Hackberry. Hackberry is easily distinguished by its cork-like bark with wartlike protuberances. The leaves are distinctly asymmetrical and coarse textured. It produces small (edible) berries that turn orange red to dark purple.
